@@ -1,19 +1,100 @@
-Trillion             10 ^ 12      
-Quadrillion          10 ^ 15      
-Quintillion          10 ^ 18      
-Sextillion           10 ^ 21      
-Septillion           10 ^ 24      
-Octillion            10 ^ 27      
-Nonillion            10 ^ 30      
-Decillion            10 ^ 33      
-Undecillion          10 ^ 36      
-Duodecillion         10 ^ 39      
-Tredecillion         10 ^ 42      
-Quattuordecillion    10 ^ 45      
-Quindecillion        10 ^ 48      
-Sexdecillion         10 ^ 51      
-Septendecillion      10 ^ 54      
-Octodecillion        10 ^ 57      
-Novemdecillion       10 ^ 60      
-Vigintillion         10 ^ 63      
-Centillion           10 ^ 303     
+1       million                        6  
+2       billion                        9  
+3       trillion                       12 
+4       quadrillion                    15 
+5*      quintillion                    18 
+6       sextillion                     21 
+7       septillion                     24 
+8       octillion                      27 
+9       nonillion                      30 
+10*     decillion                      33 
+11      undecillion                    36 
+12      duodecillion                   39 
+13      tredecillion                   42 
+14      quattuordecillion              45 
+15*     quindecillion                  48 
+16      sexdecillion                   51 
+17      septendecillion                54 
+18      octodecillion                  57 
+19      novemdecillion                 60 
+20*     vigintillion                   63 
+21      unvigintillion                 66 
+22      duovigintillion                69 
+23      trevigintillion                72 
+24      quattuorvigintillion           75 
+25*     quinvigintillion               78 
+26      sexvigintillion                81 
+27      septenvigintillion             84 
+28      octovigintillion               87 
+29      novemvigintillion              90 
+30*     trigintillion                  93 
+31      untrigintillion                96 
+32      duotrigintillion               99 
+33      tretrigintillion               102
+34      quattuortrigintillion          105
+35*     quintrigintillion              108
+36      sextrigintillion               111
+37      septentrigintillion            114
+38      octotrigintillion              117
+39      novemtrigintillion             120
+40*     quadragintillion               123
+41      unquadragintillion             126
+42      duoquadragintillion            129
+43      trequadragintillion            132
+44      quattuorquadragintillion       135
+45*     quinquadragintillion           138
+46      sexquadragintillion            141
+47      septenquadragintillion         144
+48      octoquadragintillion           147
+49      novemquadragintillion          150
+50*     quinquagintillion              153
+51      unquinquagintillion            156
+52      duoquinquagintillion           159
+53      trequinquagintillion           162
+54      quattuorquinquagintillion      165
+55*     quinquinquagintillion          168
+56      sexquinquagintillion           171
+57      septenquinquagintillion        174
+58      octoquinquagintillion          177
+59      novemquinquagintillion         180
+60*     sexagintillion                 183
+61      unsexagintillion               186
+62      duosexagintillion              189
+63      tresexagintillion              192
+64      quattuorsexagintillion         195
+65*     quinsexagintillion             198
+66      sexsexagintillion              201
+67      septensexagintillion           204
+68      octosexagintillion             207
+69      novemsexagintillion            210
+70*     septuagintillion               213
+71      unseptuagintillion             216
+72      duoseptuagintillion            219
+73      treseptuagintillion            222
+74      quattuorseptuagintillion       225
+75*     quinseptuagintillion           228
+76      sexseptuagintillion            231
+77      septenseptuagintillion         234
+78      octoseptuagintillion           237
+79      novemseptuagintillion          240
+80*     octogintillion                 243
+81      unoctogintillion               246
+82      duooctogintillion              249
+83      treoctogintillion              252
+84      quattuoroctogintillion         255
+85*     quinoctogintillion             258
+86      sexoctogintillion              261
+87      septenoctogintillion           264
+88      octooctogintillion             267
+89      novemoctogintillion            270
+90*     nonagintillion                 273
+91      unnonagintillion               276
+92      duononagintillion              279
+93      trenonagintillion              282
+94      quattuornonagintillion         285
+95*     quinnonagintillion             288
+96      sexnonagintillion              291
+97      septennonagintillion           294
+98      octononagintillion             297
+99      novemnonagintillion            300
+100*    centillion                     303
